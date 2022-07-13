@@ -1,0 +1,4 @@
+This is the beginning of creating a file.
+To create this file ....
+I use touch command follow by the file's name.
+I verifie that by using cat command to view the content
